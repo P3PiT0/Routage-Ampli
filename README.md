@@ -17,7 +17,8 @@ Partie routage du BE d'électronique(3IMACS)
 
 **DRC OK 
 
-**Délimitation PCB + V1_Placement OK 
-------------------------------------------------------(en attente du go)
+**Délimitation PCB + Placement OK 
+
+**Routage, piste de puissance et plan de masse en attente de GO 
 
          
