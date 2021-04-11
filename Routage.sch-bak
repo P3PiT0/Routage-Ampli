@@ -945,7 +945,7 @@ Wire Wire Line
 Wire Wire Line
 	8700 5050 8700 5200
 $Comp
-L CmpAmpliAudio:Jack_Mono U2
+L Routage-rescue:Jack_Mono-CmpAmpliAudio U2
 U 1 1 6059FCE6
 P 1250 3300
 F 0 "U2" H 1278 3567 50  0000 C CNN
